@@ -1,2 +1,2 @@
 # hello-world
-Just another repository.
+just your standard python amateur trying to make his way in the universe
